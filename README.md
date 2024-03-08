@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <i><h2>Arthur / Rthxr</h2></i>
+  <i>Information securit enthusiast and amateur researcher</i><br><br>
+  <i><b>#Malware #Security #Exploitation</b></i>
+</div>
 
 <!--
 **rthxr/rthxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
